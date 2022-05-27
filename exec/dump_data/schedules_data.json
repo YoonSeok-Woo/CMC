@@ -1,0 +1,254 @@
+[
+{
+    "model": "schedules.schedule",
+    "pk": 3,
+    "fields": {
+        "schedule_user_id": 2,
+        "schedule_title": "상체",
+        "schedule_time": "2022-04-07T09:00:00Z"
+    }
+},
+{
+    "model": "schedules.schedule",
+    "pk": 4,
+    "fields": {
+        "schedule_user_id": 2,
+        "schedule_title": "상체",
+        "schedule_time": "2022-04-14T09:00:00Z"
+    }
+},
+{
+    "model": "schedules.schedule",
+    "pk": 5,
+    "fields": {
+        "schedule_user_id": 2,
+        "schedule_title": "상체",
+        "schedule_time": "2022-04-08T09:00:00Z"
+    }
+},
+{
+    "model": "schedules.schedule",
+    "pk": 6,
+    "fields": {
+        "schedule_user_id": 2,
+        "schedule_title": "하체",
+        "schedule_time": "2022-04-20T09:00:00Z"
+    }
+},
+{
+    "model": "schedules.schedule",
+    "pk": 7,
+    "fields": {
+        "schedule_user_id": 3,
+        "schedule_title": "상체",
+        "schedule_time": "2022-04-26T09:00:00Z"
+    }
+},
+{
+    "model": "schedules.schedule",
+    "pk": 8,
+    "fields": {
+        "schedule_user_id": 3,
+        "schedule_title": "하체",
+        "schedule_time": "2022-05-11T03:00:00Z"
+    }
+},
+{
+    "model": "schedules.schedule",
+    "pk": 9,
+    "fields": {
+        "schedule_user_id": 3,
+        "schedule_title": "하체",
+        "schedule_time": "2022-04-02T21:00:00Z"
+    }
+},
+{
+    "model": "schedules.schedule",
+    "pk": 10,
+    "fields": {
+        "schedule_user_id": 4,
+        "schedule_title": "상체",
+        "schedule_time": "2022-04-07T21:00:00Z"
+    }
+},
+{
+    "model": "schedules.schedule",
+    "pk": 11,
+    "fields": {
+        "schedule_user_id": 4,
+        "schedule_title": "하체",
+        "schedule_time": "2022-04-25T09:00:00Z"
+    }
+},
+{
+    "model": "schedules.schedule",
+    "pk": 12,
+    "fields": {
+        "schedule_user_id": 5,
+        "schedule_title": "상체",
+        "schedule_time": "2022-04-06T21:00:00Z"
+    }
+},
+{
+    "model": "schedules.schedule",
+    "pk": 13,
+    "fields": {
+        "schedule_user_id": 5,
+        "schedule_title": "하체",
+        "schedule_time": "2022-04-07T21:00:00Z"
+    }
+},
+{
+    "model": "schedules.schedule",
+    "pk": 14,
+    "fields": {
+        "schedule_user_id": 5,
+        "schedule_title": "허리",
+        "schedule_time": "2022-04-15T21:00:00Z"
+    }
+},
+{
+    "model": "schedules.schedule",
+    "pk": 15,
+    "fields": {
+        "schedule_user_id": 5,
+        "schedule_title": "하체",
+        "schedule_time": "2022-04-17T21:00:00Z"
+    }
+},
+{
+    "model": "schedules.schedule",
+    "pk": 16,
+    "fields": {
+        "schedule_user_id": 5,
+        "schedule_title": "하체",
+        "schedule_time": "2022-04-17T21:00:00Z"
+    }
+},
+{
+    "model": "schedules.schedule",
+    "pk": 17,
+    "fields": {
+        "schedule_user_id": 5,
+        "schedule_title": "상체",
+        "schedule_time": "2022-04-20T09:00:00Z"
+    }
+},
+{
+    "model": "schedules.schedule",
+    "pk": 18,
+    "fields": {
+        "schedule_user_id": 6,
+        "schedule_title": "상체",
+        "schedule_time": "2022-04-20T09:00:00Z"
+    }
+},
+{
+    "model": "schedules.schedule",
+    "pk": 19,
+    "fields": {
+        "schedule_user_id": 6,
+        "schedule_title": "하체",
+        "schedule_time": "2022-04-24T03:00:00Z"
+    }
+},
+{
+    "model": "schedules.schedule",
+    "pk": 20,
+    "fields": {
+        "schedule_user_id": 7,
+        "schedule_title": "허리",
+        "schedule_time": "2022-04-10T15:00:00Z"
+    }
+},
+{
+    "model": "schedules.schedule",
+    "pk": 21,
+    "fields": {
+        "schedule_user_id": 7,
+        "schedule_title": "허리",
+        "schedule_time": "2022-04-19T09:00:00Z"
+    }
+},
+{
+    "model": "schedules.schedule",
+    "pk": 22,
+    "fields": {
+        "schedule_user_id": 7,
+        "schedule_title": "하체",
+        "schedule_time": "2022-04-22T08:00:00Z"
+    }
+},
+{
+    "model": "schedules.schedule",
+    "pk": 23,
+    "fields": {
+        "schedule_user_id": 8,
+        "schedule_title": "상체",
+        "schedule_time": "2022-04-08T09:00:00Z"
+    }
+},
+{
+    "model": "schedules.schedule",
+    "pk": 24,
+    "fields": {
+        "schedule_user_id": 8,
+        "schedule_title": "하체",
+        "schedule_time": "2022-04-09T09:00:00Z"
+    }
+},
+{
+    "model": "schedules.schedule",
+    "pk": 25,
+    "fields": {
+        "schedule_user_id": 8,
+        "schedule_title": "상체",
+        "schedule_time": "2022-04-11T09:00:00Z"
+    }
+},
+{
+    "model": "schedules.schedule",
+    "pk": 26,
+    "fields": {
+        "schedule_user_id": 8,
+        "schedule_title": "허리",
+        "schedule_time": "2022-04-14T09:00:00Z"
+    }
+},
+{
+    "model": "schedules.schedule",
+    "pk": 27,
+    "fields": {
+        "schedule_user_id": 8,
+        "schedule_title": "허리",
+        "schedule_time": "2022-04-18T21:00:00Z"
+    }
+},
+{
+    "model": "schedules.schedule",
+    "pk": 28,
+    "fields": {
+        "schedule_user_id": 9,
+        "schedule_title": "상체",
+        "schedule_time": "2022-05-03T09:00:00Z"
+    }
+},
+{
+    "model": "schedules.schedule",
+    "pk": 29,
+    "fields": {
+        "schedule_user_id": 9,
+        "schedule_title": "하체",
+        "schedule_time": "2022-04-21T09:00:00Z"
+    }
+},
+{
+    "model": "schedules.todayschedule",
+    "pk": 1,
+    "fields": {
+        "todayschedule_user_id": 2,
+        "todayschedule_title": "상체",
+        "todayschedule_time": "2022-04-07T09:00:00Z"
+    }
+}
+]

@@ -1,0 +1,164 @@
+[
+{
+    "model": "accounts.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$RE5wzu0rvT9o3i49tv4TOM$h2J33iG4Ch4OSW9o9kmzMGkAtWjlh5VeDsMz0V7Hz6s=",
+        "last_login": "2022-04-07T07:07:42.806Z",
+        "email": "cmc@gmail.com",
+        "user_type": "default",
+        "user_name": "user",
+        "user_profile_image": "1",
+        "user_notice": 0,
+        "user_phone": "",
+        "user_kakao_id": null,
+        "is_staff": true,
+        "is_active": true,
+        "is_superuser": true
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 2,
+    "fields": {
+        "password": "!aB2Ipx43Pi1Cuxc8Y7pJXh8bYr8O7695SD0Hpjol",
+        "last_login": "2022-04-07T07:25:20.870Z",
+        "email": "psa9456@gmail.com",
+        "user_type": "google",
+        "user_name": "박소율",
+        "user_profile_image": "1",
+        "user_notice": 0,
+        "user_phone": "010-4051-9456",
+        "user_kakao_id": null,
+        "is_staff": false,
+        "is_active": true,
+        "is_superuser": false
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 3,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$peG4cAOtXevMdmiVwAh5Pu$m4vkuwTCCxcYTtFEXdYxZqZC8EhWeTs1i5Zyvg+BgDQ=",
+        "last_login": null,
+        "email": "psa9456@naver.com",
+        "user_type": "default",
+        "user_name": "박소율",
+        "user_profile_image": "1",
+        "user_notice": 0,
+        "user_phone": "01040510406",
+        "user_kakao_id": null,
+        "is_staff": false,
+        "is_active": true,
+        "is_superuser": false
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 4,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$INeA0hMlv54X8tWcTwX3l8$7nQf80O33WmOezCRbzJSFwRO9uivLzpsHK/qYNxK/nM=",
+        "last_login": null,
+        "email": "ksh7669@naver.com",
+        "user_type": "default",
+        "user_name": "김승현",
+        "user_profile_image": "1",
+        "user_notice": 0,
+        "user_phone": "010-1234-1234",
+        "user_kakao_id": null,
+        "is_staff": false,
+        "is_active": true,
+        "is_superuser": false
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 5,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$Q09C0YYLRVP7nnt1pGkCsY$utU+sjy1hNkhj6WnGCn5G5ZdZGh1IUEi5Np6J/4n3V4=",
+        "last_login": null,
+        "email": "godandme@naver.com",
+        "user_type": "default",
+        "user_name": "노태현",
+        "user_profile_image": "1",
+        "user_notice": 0,
+        "user_phone": "010-1234-1234",
+        "user_kakao_id": null,
+        "is_staff": false,
+        "is_active": true,
+        "is_superuser": false
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 6,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$tTDiM7BaHIw99WqUcQDwyZ$CdpuTeYSrmKSlAam6gzel0mQMw/xI1ltixPctrcQUOE=",
+        "last_login": null,
+        "email": "ppsa0630@naver.com",
+        "user_type": "default",
+        "user_name": "박상아",
+        "user_profile_image": "1",
+        "user_notice": 0,
+        "user_phone": "010-1234-1234",
+        "user_kakao_id": null,
+        "is_staff": false,
+        "is_active": true,
+        "is_superuser": false
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 7,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$m1ODfaj2vWLQkqLwHs9uMW$+gMPF8rnqYEReFng+TFVyupghfEn/4bzMiHalRqSjX0=",
+        "last_login": null,
+        "email": "kimyj1288@naver.com",
+        "user_type": "default",
+        "user_name": "김영진",
+        "user_profile_image": "1",
+        "user_notice": 0,
+        "user_phone": "010-1234-1234",
+        "user_kakao_id": null,
+        "is_staff": false,
+        "is_active": true,
+        "is_superuser": false
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 8,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$qdzuztxEnphICGWXg7cnBJ$lDzByyBNtba/bn17v8nFaGXVeIyjKQO9VZ8GUC1ZshE=",
+        "last_login": null,
+        "email": "wysf1994@naver.com",
+        "user_type": "default",
+        "user_name": "우윤석",
+        "user_profile_image": "1",
+        "user_notice": 0,
+        "user_phone": "010-1234-1234",
+        "user_kakao_id": null,
+        "is_staff": false,
+        "is_active": true,
+        "is_superuser": false
+    }
+},
+{
+    "model": "accounts.user",
+    "pk": 9,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$zgLzmHEycPEbuBOtE3GRy0$z9+ZKvH9y0mg0pK48M1FjuKKZTDC5zJR79mSkeycdKU=",
+        "last_login": null,
+        "email": "parks1994@naver.com",
+        "user_type": "default",
+        "user_name": "박세진",
+        "user_profile_image": "1",
+        "user_notice": 0,
+        "user_phone": "010-1234-1234",
+        "user_kakao_id": null,
+        "is_staff": false,
+        "is_active": true,
+        "is_superuser": false
+    }
+}
+]

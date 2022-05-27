@@ -1,0 +1,302 @@
+[
+{
+    "model": "reports.timereport",
+    "pk": 4,
+    "fields": {
+        "timereport_user_id": 2,
+        "timereport_day": "2022-04-04",
+        "timereport_time": 30
+    }
+},
+{
+    "model": "reports.timereport",
+    "pk": 5,
+    "fields": {
+        "timereport_user_id": 2,
+        "timereport_day": "2022-04-05",
+        "timereport_time": 30
+    }
+},
+{
+    "model": "reports.timereport",
+    "pk": 6,
+    "fields": {
+        "timereport_user_id": 2,
+        "timereport_day": "2022-04-06",
+        "timereport_time": 30
+    }
+},
+{
+    "model": "reports.timereport",
+    "pk": 7,
+    "fields": {
+        "timereport_user_id": 3,
+        "timereport_day": "2022-04-05",
+        "timereport_time": 30
+    }
+},
+{
+    "model": "reports.timereport",
+    "pk": 8,
+    "fields": {
+        "timereport_user_id": 3,
+        "timereport_day": "2022-04-06",
+        "timereport_time": 20
+    }
+},
+{
+    "model": "reports.timereport",
+    "pk": 9,
+    "fields": {
+        "timereport_user_id": 3,
+        "timereport_day": "2022-04-03",
+        "timereport_time": 20
+    }
+},
+{
+    "model": "reports.timereport",
+    "pk": 20,
+    "fields": {
+        "timereport_user_id": 8,
+        "timereport_day": "2022-04-01",
+        "timereport_time": 20
+    }
+},
+{
+    "model": "reports.timereport",
+    "pk": 21,
+    "fields": {
+        "timereport_user_id": 8,
+        "timereport_day": "2022-04-02",
+        "timereport_time": 20
+    }
+},
+{
+    "model": "reports.timereport",
+    "pk": 22,
+    "fields": {
+        "timereport_user_id": 8,
+        "timereport_day": "2022-04-03",
+        "timereport_time": 20
+    }
+},
+{
+    "model": "reports.timereport",
+    "pk": 23,
+    "fields": {
+        "timereport_user_id": 8,
+        "timereport_day": "2022-04-04",
+        "timereport_time": 20
+    }
+},
+{
+    "model": "reports.timereport",
+    "pk": 24,
+    "fields": {
+        "timereport_user_id": 8,
+        "timereport_day": "2022-04-05",
+        "timereport_time": 20
+    }
+},
+{
+    "model": "reports.timereport",
+    "pk": 25,
+    "fields": {
+        "timereport_user_id": 8,
+        "timereport_day": "2022-04-06",
+        "timereport_time": 20
+    }
+},
+{
+    "model": "reports.timereport",
+    "pk": 26,
+    "fields": {
+        "timereport_user_id": 5,
+        "timereport_day": "2022-04-01",
+        "timereport_time": 20
+    }
+},
+{
+    "model": "reports.timereport",
+    "pk": 27,
+    "fields": {
+        "timereport_user_id": 5,
+        "timereport_day": "2022-04-03",
+        "timereport_time": 20
+    }
+},
+{
+    "model": "reports.timereport",
+    "pk": 28,
+    "fields": {
+        "timereport_user_id": 5,
+        "timereport_day": "2022-04-04",
+        "timereport_time": 20
+    }
+},
+{
+    "model": "reports.timereport",
+    "pk": 29,
+    "fields": {
+        "timereport_user_id": 5,
+        "timereport_day": "2022-04-05",
+        "timereport_time": 20
+    }
+},
+{
+    "model": "reports.timereport",
+    "pk": 30,
+    "fields": {
+        "timereport_user_id": 4,
+        "timereport_day": "2022-04-02",
+        "timereport_time": 20
+    }
+},
+{
+    "model": "reports.timereport",
+    "pk": 31,
+    "fields": {
+        "timereport_user_id": 9,
+        "timereport_day": "2022-04-01",
+        "timereport_time": 20
+    }
+},
+{
+    "model": "reports.timereport",
+    "pk": 32,
+    "fields": {
+        "timereport_user_id": 9,
+        "timereport_day": "2022-03-31",
+        "timereport_time": 20
+    }
+},
+{
+    "model": "reports.timereport",
+    "pk": 33,
+    "fields": {
+        "timereport_user_id": 9,
+        "timereport_day": "2022-03-30",
+        "timereport_time": 20
+    }
+},
+{
+    "model": "reports.timereport",
+    "pk": 34,
+    "fields": {
+        "timereport_user_id": 9,
+        "timereport_day": "2022-03-29",
+        "timereport_time": 20
+    }
+},
+{
+    "model": "reports.timereport",
+    "pk": 35,
+    "fields": {
+        "timereport_user_id": 9,
+        "timereport_day": "2022-03-28",
+        "timereport_time": 20
+    }
+},
+{
+    "model": "reports.timereport",
+    "pk": 36,
+    "fields": {
+        "timereport_user_id": 9,
+        "timereport_day": "2022-03-27",
+        "timereport_time": 20
+    }
+},
+{
+    "model": "reports.timereport",
+    "pk": 37,
+    "fields": {
+        "timereport_user_id": 9,
+        "timereport_day": "2022-03-26",
+        "timereport_time": 20
+    }
+},
+{
+    "model": "reports.timereport",
+    "pk": 38,
+    "fields": {
+        "timereport_user_id": 9,
+        "timereport_day": "2022-03-25",
+        "timereport_time": 20
+    }
+},
+{
+    "model": "reports.timereport",
+    "pk": 39,
+    "fields": {
+        "timereport_user_id": 9,
+        "timereport_day": "2022-04-04",
+        "timereport_time": 20
+    }
+},
+{
+    "model": "reports.ranking",
+    "pk": 2,
+    "fields": {
+        "ranking_time": 90,
+        "ranking_day": 3,
+        "ranking_last_day": "2022-04-07",
+        "ranking_consecutive_days": 0,
+        "ranking_max_consecutive_days": 2
+    }
+},
+{
+    "model": "reports.ranking",
+    "pk": 3,
+    "fields": {
+        "ranking_time": 70,
+        "ranking_day": 3,
+        "ranking_last_day": "2022-04-07",
+        "ranking_consecutive_days": 0,
+        "ranking_max_consecutive_days": 2
+    }
+},
+{
+    "model": "reports.ranking",
+    "pk": 4,
+    "fields": {
+        "ranking_time": 20,
+        "ranking_day": 1,
+        "ranking_last_day": "2022-04-07",
+        "ranking_consecutive_days": 1,
+        "ranking_max_consecutive_days": 1
+    }
+},
+{
+    "model": "reports.ranking",
+    "pk": 5,
+    "fields": {
+        "ranking_time": 80,
+        "ranking_day": 4,
+        "ranking_last_day": "2022-04-07",
+        "ranking_consecutive_days": 0,
+        "ranking_max_consecutive_days": 3
+    }
+},
+{
+    "model": "reports.ranking",
+    "pk": 8,
+    "fields": {
+        "ranking_time": 120,
+        "ranking_day": 6,
+        "ranking_last_day": "2022-04-07",
+        "ranking_consecutive_days": 0,
+        "ranking_max_consecutive_days": 6
+    }
+},
+{
+    "model": "reports.ranking",
+    "pk": 9,
+    "fields": {
+        "ranking_time": 180,
+        "ranking_day": 9,
+        "ranking_last_day": "2022-04-07",
+        "ranking_consecutive_days": 0,
+        "ranking_max_consecutive_days": 8
+    }
+}
+]
